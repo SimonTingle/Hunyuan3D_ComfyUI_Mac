@@ -67,4 +67,3 @@ python3 main.py \
     --config $config \
     --output_dir $output_dir \
     --deepspeed
-
